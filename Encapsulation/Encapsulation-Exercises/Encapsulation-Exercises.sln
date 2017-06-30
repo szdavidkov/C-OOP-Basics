@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBox", "ClassBox\ClassBox.csproj", "{22095FBE-DEA5-4594-8DC7-E5F1C3A928F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBoxDataValidation", "ClassBoxDataValidation\ClassBoxDataValidation.csproj", "{FA2F8F75-31FD-4C61-AD25-35367F4301E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarm", "AnimalFarm\AnimalFarm.csproj", "{54635AC0-6256-47A5-A53F-1D62DC994B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{69839E27-5DFB-4465-86B1-4131C8385F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22095FBE-DEA5-4594-8DC7-E5F1C3A928F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22095FBE-DEA5-4594-8DC7-E5F1C3A928F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22095FBE-DEA5-4594-8DC7-E5F1C3A928F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22095FBE-DEA5-4594-8DC7-E5F1C3A928F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2F8F75-31FD-4C61-AD25-35367F4301E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2F8F75-31FD-4C61-AD25-35367F4301E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2F8F75-31FD-4C61-AD25-35367F4301E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2F8F75-31FD-4C61-AD25-35367F4301E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54635AC0-6256-47A5-A53F-1D62DC994B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54635AC0-6256-47A5-A53F-1D62DC994B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54635AC0-6256-47A5-A53F-1D62DC994B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54635AC0-6256-47A5-A53F-1D62DC994B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69839E27-5DFB-4465-86B1-4131C8385F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69839E27-5DFB-4465-86B1-4131C8385F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69839E27-5DFB-4465-86B1-4131C8385F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69839E27-5DFB-4465-86B1-4131C8385F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
